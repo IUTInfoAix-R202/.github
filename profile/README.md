@@ -2,7 +2,13 @@
 
 **BUT Informatique - 1ère année (S2) - IUT d'Aix-Marseille**
 
-Matériel pédagogique du module **R2.02 - Développement d'applications avec IHM** : programmation événementielle en Java/JavaFX, propriétés observables et bindings, séparation vue/modèle avec FXML, architecture MVVM et persistance. L'objectif est de passer d'une logique métier fonctionnelle à la capacité de **concevoir et réaliser des applications graphiques interactives propres, testées et maintenables**.
+Matériel pédagogique du module **R2.02 - Développement d'applications avec IHM** :
+programmation événementielle en Java/JavaFX, propriétés observables et bindings,
+séparation vue/modèle avec FXML, architecture MVVM et persistance.
+
+L'objectif : passer d'une logique métier fonctionnelle à la capacité de
+**concevoir et réaliser des applications graphiques interactives propres,
+testées et maintenables**.
 
 ---
 
@@ -22,7 +28,11 @@ Matériel pédagogique du module **R2.02 - Développement d'applications avec IH
 | *tp4* | *à venir* | MVVM (Model-View-ViewModel, testabilité) | ✅ autograding |
 | *tp5* | *à venir* | Persistance (JDBC, JPA) | ✅ autograding |
 
-Ces dépôts ne sont pas forkés directement : un lien GitHub Classroom crée un dépôt personnel dans l'organisation [`IUTInfoAix-R202-2026`](https://github.com/IUTInfoAix-R202-2026) à chaque acceptation. Voir la [page d'index](https://github.com/IUTInfoAix-R202/tp) pour les liens.
+Ces dépôts ne sont pas forkés directement : un lien GitHub Classroom crée un
+dépôt personnel dans l'organisation
+[`IUTInfoAix-R202-2026`](https://github.com/IUTInfoAix-R202-2026) à chaque
+acceptation. Voir la [page d'index](https://github.com/IUTInfoAix-R202/tp)
+pour les liens.
 
 ## 📚 Cours magistraux
 
@@ -43,9 +53,17 @@ Ces dépôts ne sont pas forkés directement : un lien GitHub Classroom crée un
 
 ## 🗃️ Archives
 
-Les versions antérieures (2022 et avant) sont préservées dans l'organisation [**`IUTInfoAix-R202-archive`**](https://github.com/IUTInfoAix-R202-archive) : `syllabus`, `cours`, `tp1` à `tp5`, ainsi que les sujets d'examens historiques `TestIHM2015` à `TestIHM2022` et des ressources (`FranceFx`, `SAE201`, `tutoJDBC`, `tutoJPA`, `tutoMaven`, `presentationDNE`). Les anciens sujets d'examen sont encouragés comme entraînement pour le CC3.
+Les versions antérieures (2022 et avant) sont préservées dans l'organisation
+[**`IUTInfoAix-R202-archive`**](https://github.com/IUTInfoAix-R202-archive) :
+`syllabus`, `cours`, `tp1` à `tp5`, les sujets d'examens historiques
+`TestIHM2015` à `TestIHM2022` et des ressources (`FranceFx`, `SAE201`,
+`tutoJDBC`, `tutoJPA`, `tutoMaven`, `presentationDNE`). Les anciens sujets
+d'examen sont encouragés comme entraînement pour le CC3.
 
-La refonte 2026 s'appuie sur les workshops ouverts de [CraftLR](https://github.com/CraftLR) (base canonique de chaque TP) et réutilise le méta-template établi pour [`IUTInfoAix-R203`](https://github.com/IUTInfoAix-R203).
+La refonte 2026 s'appuie sur les workshops ouverts de
+[CraftLR](https://github.com/CraftLR) (base canonique de chaque TP) et
+réutilise le méta-template établi pour
+[`IUTInfoAix-R203`](https://github.com/IUTInfoAix-R203).
 
 ## 🧭 Ressources transverses
 
