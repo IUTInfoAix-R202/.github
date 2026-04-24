@@ -20,19 +20,23 @@ testées et maintenables**.
 
 ## 🧪 Travaux pratiques
 
-| TP | Repo enseignant | Thème | Notation |
-|---|---|---|---|
-| [TP1](https://github.com/IUTInfoAix-R202/tp1) | `tp1` | Bases JavaFX (Stage, Scene, Node, layouts, événements) | ✅ autograding |
-| [TP2](https://github.com/IUTInfoAix-R202/tp2) | `tp2` | Propriétés et bindings | ✅ autograding |
-| [TP3](https://github.com/IUTInfoAix-R202/tp3) | `tp3` | FXML (vues déclaratives, contrôleurs, composants) | 🔄 en cours |
-| *tp4* | *à venir* | MVVM (Model-View-ViewModel, testabilité) | ✅ autograding |
-| *tp5* | *à venir* | Persistance (JDBC, JPA) | ✅ autograding |
+> **Accès étudiant** : tous les énoncés sont distribués via GitHub Classroom
+> depuis l'index [**`tp`**](https://github.com/IUTInfoAix-R202/tp). Les dépôts
+> enseignants `tp1`..`tp5` sont privés et ne sont pas accessibles directement.
+> Chaque acceptation d'un devoir Classroom crée un dépôt personnel dans
+> l'organisation [`IUTInfoAix-R202-2026`](https://github.com/IUTInfoAix-R202-2026).
 
-Ces dépôts ne sont pas forkés directement : un lien GitHub Classroom crée un
-dépôt personnel dans l'organisation
-[`IUTInfoAix-R202-2026`](https://github.com/IUTInfoAix-R202-2026) à chaque
-acceptation. Voir la [page d'index](https://github.com/IUTInfoAix-R202/tp)
-pour les liens.
+| TP | Thème | Exercices | Répartition | Statut |
+|----|-------|-----------|-------------|--------|
+| **TP1** | Bases JavaFX (Stage, Scene, Node, layouts, événements) | 6 + 2 bonus | s1-s2 (6 h) | ✅ Publié |
+| **TP2** | Propriétés et bindings | 8 + 2 bonus | s2-s3 (8 h) | ✅ Publié |
+| **TP3** | FXML (vues déclaratives, contrôleurs, composants) | 7 + 2 bonus | s4 (8 h) | 🔄 En cours |
+| **TP4** | MVVM (Model-View-ViewModel, testabilité) | à définir | s6 (8 h) | ⏳ À venir |
+| **TP5** | Persistance (JDBC, JPA) | à définir | s7 (4 h, slot SAÉ, compte CC1 R2.02) | ⏳ À venir |
+
+Tous les TPs sont **autogradés** sur GitHub Classroom. Pour le détail des
+volumes horaires, des exercices et du barème, voir le
+[syllabus](https://github.com/IUTInfoAix-R202/syllabus).
 
 ## 📚 Cours magistraux
 
