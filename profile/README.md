@@ -15,7 +15,7 @@ testées et maintenables**.
 ## 📍 Par où commencer
 
 - 📘 [**`syllabus`**](https://github.com/IUTInfoAix-R202/syllabus) - présentation officielle du module (compétences BUT, calendrier, évaluations, équipe, ressources)
-- 🗂️ [**`tp`**](https://github.com/IUTInfoAix-R202/tp) - **page d'accueil des étudiants** : index des TP avec liens GitHub Classroom et pointeurs vers les CM
+- 🗂️ [**`tp`**](https://github.com/IUTInfoAix-R202/tp) - **votre page d'accueil** : index des TP avec liens GitHub Classroom et pointeurs vers les CM
 - 🎓 [**`cours`**](https://github.com/IUTInfoAix-R202/cours) - slides Marp des CM, publiés sur [GitHub Pages](https://iutinfoaix-r202.github.io/cours/)
 
 ## 🧪 Travaux pratiques
@@ -44,8 +44,8 @@ volumes horaires, des exercices et du barème, voir le
 |---|---|---|---|
 | CM1 | [Fondations IHM](https://iutinfoaix-r202.github.io/cours/cm1-fondations-ihm.html) | Stage / Scene / Node, layouts, événements, Nielsen, Gestalt | Comprendre |
 | CM2 | [Propriétés et bindings](https://iutinfoaix-r202.github.io/cours/cm2-donnees-et-liaison.html) | Property observables, binding, affordance | Appliquer |
-| *CM3* | *à venir* | Architecture des IHM, FXML, MVC | Analyser |
-| *CM4* | *à venir* | MVVM, persistance, synthèse | Créer / Évaluer |
+| CM3 | 🔄 En cours | Architecture des IHM, FXML, MVC | Analyser |
+| CM4 | ⏳ À venir | MVVM, persistance, synthèse | Créer / Évaluer |
 
 ## 👥 Équipe pédagogique 2025-2026
 
@@ -53,7 +53,7 @@ volumes horaires, des exercices et du barème, voir le
 - [Frédéric Flouvat](mailto:frederic.flouvat@univ-amu.fr)
 - [Sophie Nabitz](mailto:sophie.nabitz@univ-avignon.fr)
 - [Samir Chtioui](mailto:samir.chtioui@gmail.com)
-- [Olivier Gérard](mailto:olivier.GERARD@univ-amu.fr) *(intervention ergonomie, semaine 7)*
+- [Olivier Gérard](mailto:olivier.GERARD@univ-amu.fr) *(intervention ergonomie, 4 h en semaine 7, préparation SAÉ 2.01)*
 
 ## 🗃️ Archives
 
@@ -64,11 +64,6 @@ Les versions antérieures (2022 et avant) sont préservées dans l'organisation
 `tutoJDBC`, `tutoJPA`, `tutoMaven`, `presentationDNE`). Les anciens sujets
 d'examen sont encouragés comme entraînement pour le CC3.
 
-La refonte 2026 s'appuie sur les workshops ouverts de
-[CraftLR](https://github.com/CraftLR) (base canonique de chaque TP) et
-réutilise le méta-template établi pour
-[`IUTInfoAix-R203`](https://github.com/IUTInfoAix-R203).
-
 ## 🧭 Ressources transverses
 
 - [PN BUT Informatique 2022 - annexe 15, fiche R2.02 p. 92](https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/14/6/spe617_annexe15_1426146.pdf)
@@ -76,7 +71,7 @@ réutilise le méta-template établi pour
 - [OpenJFX Getting Started](https://openjfx.io/openjfx-docs/)
 - [dev.java - JavaFX Properties](https://dev.java/learn/javafx/properties/)
 - [FXDocs Community](https://fxdocs.github.io/docs/html5/)
-- [JavaFX Software (AlmasB)](https://www.youtube.com/playlist?list=PL4h6ypqTi3RR_bhBk6PtLfD83YkaJXXxw) - playlist vidéo pédagogique
+- [JavaFX Software (AlmasB)](https://www.youtube.com/playlist?list=PL4h6ypqTi3RR_bhBk6PtLfD83YkaJXXxw) - playlist vidéo
 
 ---
 
