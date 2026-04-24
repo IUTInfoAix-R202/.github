@@ -1,4 +1,4 @@
-# <img src="../assets/logo.png" alt="IUT Aix-Marseille" width="120"/> R2.02 - Développement d'applications avec IHM
+# Refonte 2026 - JavaFX, FXML, MVVM
 
 **BUT Informatique - 1ère année (S2) - IUT d'Aix-Marseille**
 
