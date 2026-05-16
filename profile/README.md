@@ -31,7 +31,7 @@ testées et maintenables**.
 |----|-------|-----------|-------------|--------|
 | **TP1** | Bases JavaFX (Stage, Scene, Node, layouts, événements) | 6 + 2 bonus | s1-s2 (6 h) | ✅ Publié |
 | **TP2** | Propriétés et bindings | 8 + 2 bonus | s2-s3 (8 h) | ✅ Publié |
-| **TP3** | FXML (vues déclaratives, contrôleurs, composants) | 7 + 2 bonus | s4 (8 h) | 🔄 En cours |
+| **TP3** | FXML (vues déclaratives, contrôleurs, composants) | 7 + 3 bonus | s4 (8 h) | ✅ Publié |
 | **TP4** | MVVM (Model-View-ViewModel, testabilité) | à définir | s6 (8 h) | ⏳ À venir |
 | **TP5** | Persistance (JDBC, JPA) | à définir | s7 (4 h, slot SAÉ, compte CC1 R2.02) | ⏳ À venir |
 
@@ -45,8 +45,8 @@ volumes horaires, des exercices et du barème, voir le
 |---|---|---|---|
 | CM1 | [Fondations IHM](https://iutinfoaix-r202.github.io/cours/cm1-fondations-ihm.html) | Stage / Scene / Node, layouts, événements, Nielsen, Gestalt | Comprendre |
 | CM2 | [Propriétés et bindings](https://iutinfoaix-r202.github.io/cours/cm2-donnees-et-liaison.html) | Property observables, binding, affordance | Appliquer |
-| CM3 | 🔄 En cours | Architecture des IHM, FXML, MVC | Analyser |
-| CM4 | ⏳ À venir | MVVM, persistance, synthèse | Créer / Évaluer |
+| CM3 | [Architecture des IHM et FXML](https://iutinfoaix-r202.github.io/cours/cm3-architecture-fxml.html) | Architecture des IHM, FXML, MVC | Analyser |
+| CM4 | [MVVM et persistance](https://iutinfoaix-r202.github.io/cours/cm4-mvvm-persistance.html) | MVVM, persistance, synthèse | Créer / Évaluer |
 
 ## 👥 Équipe pédagogique 2025-2026
 
