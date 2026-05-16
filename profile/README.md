@@ -55,14 +55,10 @@ volumes horaires, des exercices et du barème, voir le
 - [Samir Chtioui](mailto:samir.chtioui@gmail.com)
 - [Olivier Gérard](mailto:olivier.GERARD@univ-amu.fr) *(intervention ergonomie, 4 h en semaine 7, préparation SAÉ 2.01)*
 
-## 🗃️ Archives
+## 🗃️ Archives et entraînement
 
-Les versions antérieures (2022 et avant) sont préservées dans l'organisation
-[**`IUTInfoAix-R202-archive`**](https://github.com/IUTInfoAix-R202-archive) :
-`syllabus`, `cours`, `tp1` à `tp5`, les sujets d'examens historiques
-`TestIHM2015` à `TestIHM2022` et des ressources (`FranceFx`, `SAE201`,
-`tutoJDBC`, `tutoJPA`, `tutoMaven`, `presentationDNE`). Les anciens sujets
-d'examen sont encouragés comme entraînement pour le CC3.
+- 🧪 [**`testIHM`**](https://github.com/IUTInfoAix-R202/testIHM) - archive consolidée des **sujets de tests d'IHM 2013-2022** (10 sujets : Morpion, Othello, Mastermind, Taquin, Lights Out, Tracé de fonction, Wordle…), tous retrofittés sur Java 25 / JavaFX 25 / Maven Wrapper, avec 116 tests fonctionnels et [![CI](https://github.com/IUTInfoAix-R202/testIHM/actions/workflows/ci.yml/badge.svg)](https://github.com/IUTInfoAix-R202/testIHM/actions/workflows/ci.yml). Excellente source d'**entraînement pour le CC3**.
+- 📦 [**`IUTInfoAix-R202-archive`**](https://github.com/IUTInfoAix-R202-archive) - versions antérieures (2022 et avant) : `syllabus`, `cours`, `tp1` à `tp5`, ressources (`FranceFx`, `SAE201`, `tutoJDBC`, `tutoJPA`, `tutoMaven`, `presentationDNE`).
 
 ## 🧭 Ressources transverses
 
