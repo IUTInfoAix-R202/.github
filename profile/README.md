@@ -48,6 +48,8 @@ volumes horaires, des exercices et du barème, voir le
 | CM3 | [Architecture des IHM et FXML](https://iutinfoaix-r202.github.io/cours/cm3-architecture-fxml.html) | Architecture des IHM, FXML, MVC | Analyser |
 | CM4 | [MVVM et persistance](https://iutinfoaix-r202.github.io/cours/cm4-mvvm-persistance.html) | MVVM, persistance, synthèse | Créer / Évaluer |
 
+> 🦇 **Présentation du brief SAÉ 2.01** (*VigieChiro PR Companion*) : [slides](https://iutinfoaix-r202.github.io/cours/presentation-sae-2.01.html) - vue d'ensemble du projet fil rouge, présentée en amont du CM4.
+
 ## 👥 Équipe pédagogique 2025-2026
 
 - [Sébastien Nedjar](mailto:sebastien.nedjar@univ-amu.fr) - responsable du module
